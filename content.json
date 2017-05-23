@@ -1,0 +1,33 @@
+{
+ "address": "182Uot1yJ6mZEwQYE5LX1P5f6VPyJ9gUGe",
+ "cloneable": true,
+ "description": "Money Network - D1 - User hub - runner jro",
+ "files": {
+  "index.html": {
+   "sha512": "21c94b6c0056227a5e25d7a644c73dbb09b9da4f4a3cfaca46dedd9cd1f795b0",
+   "size": 1143
+  }
+ },
+ "ignore": "((js|css)/(?!all.(js|css))|.idea|.git|data/users/.*/.*)",
+ "includes": {
+  "data/users/content.json": {
+   "signers": [],
+   "signers_required": 1
+  }
+ },
+ "inner_path": "content.json",
+ "merged_type": "MoneyNetwork",
+ "modified": 1495206114,
+ "postmessage_nonce_security": true,
+ "sign": [
+  18631273484589381311645605291628951786140581946726111271167220561078655337437,
+  85358442991402333793747057257703886646722349664319245811310678508011674766401
+ ],
+ "signers_sign": "G27XBTXP7+LRv71akXxs+37/Vb2PzuatP/slTO6pjznUbBYon/QjuBEmk0ZX9/ru1/yDnBFgwSpoK8fYSdETnds=",
+ "signs": {
+  "182Uot1yJ6mZEwQYE5LX1P5f6VPyJ9gUGe": "G6MuXOsrr0Pq5C3mgQU3PCpOfGKADfG5OLYjHLbvmR8VaWq0BkgHmm1kut7SYxr25PvrNQfG7D1Q2RrflG2WTwY="
+ },
+ "signs_required": 1,
+ "title": "D1 - User hub",
+ "zeronet_version": "0.5.5"
+}
